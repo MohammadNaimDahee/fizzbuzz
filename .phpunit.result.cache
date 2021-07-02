@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Libraries\\FizzBuzzTest::test_fizz":3},"times":{"App\\Libraries\\FizzBuzzTest::test_fizz":0.038,"App\\Libraries\\FizzBuzzTest::test_buzz":0.001,"App\\Libraries\\FizzBuzzTest::test_fizz_buzz":0.001,"App\\Libraries\\FizzBuzzTest::test_number":0.001}}
